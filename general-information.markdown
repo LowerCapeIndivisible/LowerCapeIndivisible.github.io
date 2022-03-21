@@ -5,4 +5,4 @@ layout: page
 ---
 
 Get Involved!
-Sign up to receive the [Lower Cape Indivisible newsletter](mailto:lcinewsletterteam@gmail.com).
+<p>Sign up to receive the [Lower Cape Indivisible newsletter](mailto:lcinewsletterteam@gmail.com).<p>
