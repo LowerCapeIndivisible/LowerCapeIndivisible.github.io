@@ -1,9 +1,11 @@
 ---
-title: "​Congresswoman Jackie Speier"
+title: "​Congressman Bill Keating"
 date: 2017-02-21 02:09:00 Z
 phone-numbers:
-  San Mateo Office: "(650) 342-0300"
-  DC Office: "(202) 225-3531"
-website: https://speier.house.gov
+  Hyannis Office: "(508) 771-6868"
+  DC Office: "(202) 225-5658"
+  Plymouth Office: "(508) 746-9000"
+  New Bedford Office: "(508) 999-6462"
+website: https://keating.house.gov/
 ---
 
