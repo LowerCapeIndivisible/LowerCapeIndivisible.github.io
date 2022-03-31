@@ -1,6 +1,16 @@
 ---
 title: Common Start on Boston Commons
 date: 2022-03-31 11:07:00 -04:00
+categories:
+- Affordable Childcare
+- MA State Legislation
+- Equitable Education
+tags:
+- common start
+- MA H.605
+- MA S.362
+- early childhood education
+- affordable childcare
 is featured: true
 event-start-date: 2022-04-09 11:00:00 -04:00
 event-end-date: 2022-04-09 13:00:00 -04:00
